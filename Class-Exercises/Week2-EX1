@@ -17,6 +17,7 @@
 </center>
 <hr>
 <!--Unordered and Ordered List--> 
+<center>
 <h2>Why Come to Key West?</h2>
      <ul>
         <li>Beautiful Beaches</li>
@@ -43,7 +44,7 @@
         <tr><td>Fort Zachary Beach</td><td>$10</td></tr>
     </table>
 <hr>
-
+</center>
 <center><h2 id="#Video">Click to Watch</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gIYaoawvTnU?si=2CBor2xRFsIH157F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2>Map of Key West</h2>
