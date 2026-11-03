@@ -5,11 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Key West</title>
+    <link rel="stylesheet" href="../Assets/CSS/mystyle.css>
 
-    <style>
-        h1{color: blue;}
-        h2{color:aquamarine}
-    </style>
 </head>
 
 <body>
