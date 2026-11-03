@@ -1,9 +1,9 @@
-h1{color:blue;}
+h1{ text-align:center; color:blue;}
 
-h2{color:goldenrod;}
+h2{ text-align:center; color:goldenrod;}
 
-p{color:blueviolet;}
+p{ text-align:center; color:blueviolet;}
 
 #heading-one{color:green;}
 
-.{color: yellow;}
+.{color: yellow;} 
